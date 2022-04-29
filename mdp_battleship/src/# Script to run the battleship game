@@ -1,0 +1,4 @@
+# Script to run the battleship game
+# Final script will pull in the MDP_player.py functions
+# The function from this will be run through a bootstrap to see
+# if the rng beats the MDP and get the distribution
